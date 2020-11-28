@@ -12,7 +12,7 @@ Para rodar a aplicação execute o comando
 
 ### `yarn start`
 
-Que irá rodar a apicação no the development\
+A apicação irá rodar no modo Desenvolvedor\
 Abra [http://localhost:3000](http://localhost:3000) para ver no browser.
 
 
