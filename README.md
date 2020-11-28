@@ -1,5 +1,4 @@
 # Atividade de Arquitetura de Software 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Esta aplicação realiza buscas por repositórios do github utilizando a própria api do github e adiciona esses repositórios em uma lista.
 
