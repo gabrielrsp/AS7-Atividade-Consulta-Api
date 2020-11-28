@@ -1,10 +1,15 @@
-# Getting Started with Create React App
-
+# Atividade de Arquitetura de Software 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Esta aplicação realiza buscas por repositórios do github utilizando a própria api do github e adiciona esses repositórios em uma lista.
 
-In the project directory, you can run:
+
+
+Com o yarn instalado, e o projeto baixado, primeiramente instale as dependencias rodando somente o seguinte comando
+
+### `yarn`
+
+Para rodar a aplicação execute o comando
 
 ### `yarn start`
 
